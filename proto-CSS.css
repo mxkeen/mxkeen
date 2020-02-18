@@ -1,0 +1,16 @@
+h1{
+border-bottom: 2px solid black;
+  }
+body{
+  background-color: lightblue;
+}
+#navlinks4
+img{
+   width: 100px;
+   height: 100px;
+border: 2px solid black;
+}
+#navLinks{
+border-left: 2px solid black;
+height: 100%;
+}
